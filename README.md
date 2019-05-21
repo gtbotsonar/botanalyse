@@ -41,6 +41,10 @@ Botsonar 一款企业使用的反爬虫管理平台。该平台集爬虫发现�
 - 鼠标轨迹 CNN 模型
 - 动态 URL 接口
 
+# Domo
+
+测试博客： [https://blog.geetest.com](https://blog.geetest.com)
+
 # 如何开始
 
 本次 Alpha 版本开源的是旁路分析模型，其接入方式是使用 Openresty 插件集成。
